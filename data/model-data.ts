@@ -288,20 +288,20 @@ export const modelData: ModelData = {
    * Videos never autoplay with sound.
    */
   videos: [
-  /**{
+  {
     title: "Parshv Jain Model Shoot",
-    category: "Fashion",
+    category: "LIVE ADVERTISEMENT RECORDING FOOTAGE",
     thumbnail: "/portfolio/profile.JPG",
-    src: "/portfolio/videos/Video-name.mp4",
+    src: "/portfolio/videos/PARTHV JAIN (1).mp4",
     type: "mp4",
   },
   {
     title: "Parshv Jain Model Shoot",
-    category: "Fashion",
+    category: "RAW Video FOOTAGE",
     thumbnail: "/portfolio/profile.JPG",
-    src: "/portfolio/videos/Video-name-compressed.mp4",
+    src: "/portfolio/videos/PARTHV JAIN.mp4",
     type: "mp4",
-  },*/
+  },
 ],
 
    
